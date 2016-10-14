@@ -21,7 +21,7 @@
   ],
   "author": "Sahil Narula <sahiln123@gmail.com>",
   "license": "ISC",
-  "dependencies": {
-    "react": "^0.14.7"
+  "peerDependencies": {
+    "react": "*"
   }
 }
